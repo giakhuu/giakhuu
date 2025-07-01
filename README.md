@@ -7,7 +7,16 @@
 </div>
 
 ## 🧑‍💻 About Me
+<h1 align="center">Hi 👋, I'm Gia</h1>
+<h3 align="center">A passionate mobile app developer from Viet Nam</h3>
 
+- 🔭 I’m currently working on [postman-clone](https://github.com/giakhuu/postman-clone.git)
+
+- 🌱 I’m currently learning **Jetpack Compose and React Native**
+
+- 💬 Ask me about **react, jetpack compose**
+
+- 📫 How to reach me **gikhuu18112004@gmail.com**
 
 ## 🛠️ Tech Stack
 
