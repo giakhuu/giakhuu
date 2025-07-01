@@ -8,24 +8,6 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    technologies: {
-        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "Spring Boot"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
-        tools: ["Git", "VSCode", "Figma", "Postman"]
-    },
-    currentlyLearning: ["Go", "Rust", "Machine Learning"],
-    hobbies: ["Photography", "Gaming", "Hiking", "Reading"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
 
 ## 🛠️ Tech Stack
 
