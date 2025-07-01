@@ -51,41 +51,41 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=giakhuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakhuu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giakhuu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giakhuu&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%">
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-1&theme=tokyonight&hide_border=true)](https://github.com/yourusername/awesome-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-2&theme=tokyonight&hide_border=true)](https://github.com/yourusername/awesome-project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giakhuu&repo=awesome-project-1&theme=tokyonight&hide_border=true)](https://github.com/giakhuu/awesome-project-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giakhuu&repo=awesome-project-2&theme=tokyonight&hide_border=true)](https://github.com/giakhuu/awesome-project-2)
 
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=giakhuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/yourusername/awesome-project/pull/123) in [yourusername/awesome-project](https://github.com/yourusername/awesome-project)
-2. 💪 Opened PR [#124](https://github.com/yourusername/another-project/pull/124) in [yourusername/another-project](https://github.com/yourusername/another-project)
-3. 🗣 Commented on [#125](https://github.com/yourusername/cool-project/issues/125) in [yourusername/cool-project](https://github.com/yourusername/cool-project)
-4. ❗️ Closed issue [#126](https://github.com/yourusername/my-project/issues/126) in [yourusername/my-project](https://github.com/yourusername/my-project)
-5. 🆕 Opened issue [#127](https://github.com/yourusername/new-project/issues/127) in [yourusername/new-project](https://github.com/yourusername/new-project)
+1. 🎉 Merged PR [#123](https://github.com/giakhuu/awesome-project/pull/123) in [giakhuu/awesome-project](https://github.com/giakhuu/awesome-project)
+2. 💪 Opened PR [#124](https://github.com/giakhuu/another-project/pull/124) in [giakhuu/another-project](https://github.com/giakhuu/another-project)
+3. 🗣 Commented on [#125](https://github.com/giakhuu/cool-project/issues/125) in [giakhuu/cool-project](https://github.com/giakhuu/cool-project)
+4. ❗️ Closed issue [#126](https://github.com/giakhuu/my-project/issues/126) in [giakhuu/my-project](https://github.com/giakhuu/my-project)
+5. 🆕 Opened issue [#127](https://github.com/giakhuu/new-project/issues/127) in [giakhuu/new-project](https://github.com/giakhuu/new-project)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
@@ -111,9 +111,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/giakhuu)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/giakhuu)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/giakhuu)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
 
@@ -128,13 +128,13 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/giakhuu/giakhuu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=giakhuu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   
   **Thanks for visiting! 😄**
   
@@ -143,10 +143,10 @@
 
 ### 🔗 Quick Links
 
-- 📊 [GitHub Analytics](https://github.com/yourusername)
-- 🌟 [Starred Repositories](https://github.com/yourusername?tab=stars)
-- 📚 [Gists](https://gist.github.com/yourusername)
-- 🎯 [Projects](https://github.com/yourusername?tab=projects)
+- 📊 [GitHub Analytics](https://github.com/giakhuu)
+- 🌟 [Starred Repositories](https://github.com/giakhuu?tab=stars)
+- 📚 [Gists](https://gist.github.com/giakhuu)
+- 🎯 [Projects](https://github.com/giakhuu?tab=projects)
 
 <div align="center">
   <i>Let's build something amazing together! 🚀</i>
