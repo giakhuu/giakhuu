@@ -94,18 +94,6 @@
 
 </div>
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/giakhuu/giakhuu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
@@ -115,14 +103,6 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-
-### 🔗 Quick Links
-
-- 📊 [GitHub Analytics](https://github.com/giakhuu)
-- 🌟 [Starred Repositories](https://github.com/giakhuu?tab=stars)
-- 📚 [Gists](https://gist.github.com/giakhuu)
-- 🎯 [Projects](https://github.com/giakhuu?tab=projects)
-
 <div align="center">
   <i>Let's build something amazing together! 🚀</i>
 </div>
