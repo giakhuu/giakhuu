@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giakhuu&repo=awesome-project-1&theme=tokyonight&hide_border=true)](https://github.com/giakhuu/awesome-project-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giakhuu&repo=WorkTimeTracker&theme=tokyonight&hide_border=true)](https://github.com/nmheeir/WorkTimeTracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giakhuu&repo=awesome-project-2&theme=tokyonight&hide_border=true)](https://github.com/giakhuu/awesome-project-2)
 
 </div>
