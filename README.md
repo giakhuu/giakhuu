@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%A4%93" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</div>
-
 ## 🧑‍💻 About Me
 <h1 align="center">Hi 👋, I'm Gia</h1>
 <h3 align="center">A passionate mobile app developer from Viet Nam</h3>
@@ -18,33 +10,47 @@
 
 - 📫 How to reach me **gikhuu18112004@gmail.com**
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%A4%93" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+</div>
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+
 ### Languages
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+### Mobile & Frontend
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![NativeWind](https://img.shields.io/badge/-NativeWind-38B2AC?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+### Database & Services
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
+
+### Tools & IDEs
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
 </div>
 
@@ -67,8 +73,10 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giakhuu&repo=WorkTimeTracker&theme=tokyonight&hide_border=true)](https://github.com/nmheeir/WorkTimeTracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giakhuu&repo=awesome-project-2&theme=tokyonight&hide_border=true)](https://github.com/giakhuu/awesome-project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nmheeir&repo=WorkTimeTracker&theme=tokyonight&hide_border=true)](https://github.com/nmheeir/WorkTimeTracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nmheeir&repo=WorkTimeManager&theme=tokyonight&hide_border=true)](https://github.com/nmheeir/WorkTimeManager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nmheeir&repo=WorkTimeManager&theme=tokyonight&hide_border=true)](https://github.com/nmheeir/WorkTimeManager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NewBieLearnCode73&repo=InventoryManagement&theme=tokyonight&hide_border=true)](https://github.com/NewBieLearnCode73/InventoryManagement)
 
 </div>
 
@@ -78,44 +86,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=giakhuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/giakhuu/awesome-project/pull/123) in [giakhuu/awesome-project](https://github.com/giakhuu/awesome-project)
-2. 💪 Opened PR [#124](https://github.com/giakhuu/another-project/pull/124) in [giakhuu/another-project](https://github.com/giakhuu/another-project)
-3. 🗣 Commented on [#125](https://github.com/giakhuu/cool-project/issues/125) in [giakhuu/cool-project](https://github.com/giakhuu/cool-project)
-4. ❗️ Closed issue [#126](https://github.com/giakhuu/my-project/issues/126) in [giakhuu/my-project](https://github.com/giakhuu/my-project)
-5. 🆕 Opened issue [#127](https://github.com/giakhuu/new-project/issues/127) in [giakhuu/new-project](https://github.com/giakhuu/new-project)
-<!--END_SECTION:activity-->
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Applications with React and Node.js](https://yourblog.com/building-scalable-apps)
-- [The Future of Web Development: Trends to Watch](https://yourblog.com/future-web-dev)
-- [Mastering TypeScript: Advanced Patterns](https://yourblog.com/typescript-patterns)
-- [Database Optimization Techniques](https://yourblog.com/database-optimization)
-- [Cloud Architecture Best Practices](https://yourblog.com/cloud-architecture)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Current Goals
-
-- 🔭 Working on **[Your Current Project]**
-- 🌱 Learning **Go** and **Machine Learning**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🤔 Exploring **Web3** and **Blockchain** technologies
-- 💬 Ask me about **React, Node.js, Python**
-- ⚡ Fun fact: **I love solving algorithmic puzzles**
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/giakhuu)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/giakhuu)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/giakhuu)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gikhuu18112004@gmail.com)
 
 </div>
 
